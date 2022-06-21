@@ -17,4 +17,4 @@ Summary 4: 建议中医专家根据望闻问切后辨证论治,才能开出适�
 
 
 Unfaithful?: []
-Incoherent?: []
+Incoherent?: [2]
