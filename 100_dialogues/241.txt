@@ -12,5 +12,5 @@ Summary 4: 鼻子毛细血管出血是全身因素引起的。建议到医院检
 
 
 
-Unfaithful?: []
+Unfaithful?: [4]
 Incoherent?: []
