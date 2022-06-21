@@ -12,5 +12,5 @@ Summary 4: 紫癜性肾炎是常见的疾病,建议你去医院检查一下。
 
 
 
-Unfaithful?: []
-Incoherent?: []
+Unfaithful?: [1,2]
+Incoherent?: [3]
