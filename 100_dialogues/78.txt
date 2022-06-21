@@ -17,5 +17,5 @@ Summary 4: 如果不造成肾积水,后果一般不严重,不会影响生活质�
 
 
 
-Unfaithful?: []
-Incoherent?: []
+Unfaithful?: [2,4]
+Incoherent?: [3]
