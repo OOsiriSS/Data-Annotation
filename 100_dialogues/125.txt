@@ -15,4 +15,4 @@ Summary 4: 一般胎停首选人流术,其次再考虑药物流产。
 
 
 Unfaithful?: []
-Incoherent?: []
+Incoherent?: [1]
