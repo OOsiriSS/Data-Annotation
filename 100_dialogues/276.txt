@@ -11,4 +11,4 @@ Summary 4: 可服用奥美拉唑3周,症状反复或加重需胃镜检查。
 
 
 Unfaithful?: []
-Incoherent?: []
+Incoherent?: [1]
