@@ -21,4 +21,4 @@ Summary 4: 幽门螺旋杆菌感染会出现口腔异味。
 
 
 Unfaithful?: []
-Incoherent?: []
+Incoherent?: [3]
