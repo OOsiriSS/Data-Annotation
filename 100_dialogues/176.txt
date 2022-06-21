@@ -18,5 +18,5 @@ Summary 4: 肥胖症是正常的。
 
 
 
-Unfaithful?: []
-Incoherent?: []
+Unfaithful?: [3,4]
+Incoherent?: [1,2]
